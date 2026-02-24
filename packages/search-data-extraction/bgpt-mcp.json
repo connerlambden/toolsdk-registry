@@ -6,10 +6,5 @@
   "url": "https://github.com/connerlambden/bgpt-mcp",
   "runtime": "node",
   "license": "MIT",
-  "remotes": [
-    {
-      "type": "sse",
-      "url": "https://bgpt.pro/mcp/sse"
-    }
-  ]
+  "env": {}
 }
